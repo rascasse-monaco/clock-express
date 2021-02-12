@@ -1,0 +1,8 @@
+{
+  "name": "Clock",
+  "description": "App for test",
+  "repository": "https://github.com/rascasse-monaco/clock-express",
+  "logo": "",
+  "keywords": ["node"],
+  "image": "heroku/nodejs"
+}
